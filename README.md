@@ -1,2 +1,2 @@
-# Algorithm-Visualization-
-***Discrete Math Project***
+# Algorithm-Visualization
+
